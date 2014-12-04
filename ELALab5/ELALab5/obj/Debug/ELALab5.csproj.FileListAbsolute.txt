@@ -1,0 +1,10 @@
+C:\Users\Alua\Desktop\14 week\ELALab5\ELALab5\bin\Debug\ELALab5.exe.config
+C:\Users\Alua\Desktop\14 week\ELALab5\ELALab5\bin\Debug\ELALab5.exe
+C:\Users\Alua\Desktop\14 week\ELALab5\ELALab5\bin\Debug\ELALab5.pdb
+C:\Users\Alua\Desktop\14 week\ELALab5\ELALab5\obj\Debug\ELALab5.csprojResolveAssemblyReference.cache
+C:\Users\Alua\Desktop\14 week\ELALab5\ELALab5\obj\Debug\ELALab5.Form1.resources
+C:\Users\Alua\Desktop\14 week\ELALab5\ELALab5\obj\Debug\ELALab5.Properties.Resources.resources
+C:\Users\Alua\Desktop\14 week\ELALab5\ELALab5\obj\Debug\ELALab5.Server.resources
+C:\Users\Alua\Desktop\14 week\ELALab5\ELALab5\obj\Debug\ELALab5.csproj.GenerateResource.Cache
+C:\Users\Alua\Desktop\14 week\ELALab5\ELALab5\obj\Debug\ELALab5.exe
+C:\Users\Alua\Desktop\14 week\ELALab5\ELALab5\obj\Debug\ELALab5.pdb
